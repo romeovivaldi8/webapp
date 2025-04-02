@@ -3,7 +3,7 @@
 # RDS connection details
 DB_HOST="gviv0557-db.c3cya82a4mlv.us-east-1.rds.amazonaws.com"           # Replace with your RDS endpoint
 DB_USER="admin"           # Your RDS admin username
-DB_PASSWORD="romeo168"       # Your RDS password
+DB_PASSWORD="Romeo168"       # Your RDS password
 SQL_COMMANDS=$(cat <<EOF
 /*
   Database Creation Script for the Image Captioning App
